@@ -1,6 +1,6 @@
 # Site settings
-# title:        "tech blog covering end user device, Mobile devices, networks and hosting"
-# description:  "motivation is to ensure commons from the wider community"
+title:        "abditech"
+description:  "tech talk"
 baseurl:      "" # the subpath of your site, e.g. /blog/
 url:          "http://yourdomain.com" # the base hostname & protocol for your site
 permalink:    /:year/:title
