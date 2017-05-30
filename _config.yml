@@ -1,13 +1,13 @@
 # Site settings
-title:        "block-Log"
-description:  "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolor"
+title:        "tech blog covering end user device, Mobile devices, networks and hosting"
+description:  "motivation is to ensure commons from the wider community"
 baseurl:      "" # the subpath of your site, e.g. /blog/
 url:          "http://yourdomain.com" # the base hostname & protocol for your site
 permalink:    /:year/:title
-github:       "yourusername"
-twitter:      "yourusername"
+github:       "Abdul2"
+twitter:      "_abdulrashid_"
 email:        "mail@example.com"
-disqus-id:    "example" #leave blank if you dont want comments.
+disqus-id:    "abditech" #leave blank if you dont want comments.
 
 # Build settings
 markdown:     kramdown
